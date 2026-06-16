@@ -127,15 +127,15 @@ nav {
     text-align: center;
 }
  
-.container h1 {
-    font-family: 'Cormorant Garamond', serif;
-    font-size: clamp(3rem, 7vw, 5.5rem);
-    font-weight: 300;
-    line-height: 1.1;
+.conline-height: 1.1;
     color: var(--ink);
     margin-bottom: 8px;
     animation: fadeUp 0.7s 0.1s ease both;
-}
+}tainer h1 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: clamp(3rem, 7vw, 5.5rem);
+    font-weight: 300;
+    
  
 .container>p {
     font-size: 10px;
@@ -362,4 +362,3 @@ gap: 2.5rem;
 }
  
 }
-form
